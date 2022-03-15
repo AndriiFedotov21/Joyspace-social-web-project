@@ -1,0 +1,13 @@
+.profile {
+    grid-area: profile;
+    background: #191a1c;
+}
+.main_img{
+    width: 300px;
+}
+.secondary_img{
+    width: 300px;
+}
+.item {
+
+}

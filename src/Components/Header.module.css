@@ -1,0 +1,13 @@
+.header {
+    grid-area: header;
+    background: rgba(174, 183, 174, 0.55);
+    font-size: 30px;
+    font-weight: 700;
+    padding: 7px;
+    cursor: pointer;
+}
+
+.header img {
+    width: 44px;
+    height: 44px;
+}
