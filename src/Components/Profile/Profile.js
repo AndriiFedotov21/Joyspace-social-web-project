@@ -1,4 +1,5 @@
 import classes from './Profile.module.css'
+import MyPosts from "./My_posts/My_posts";
 
 const Profile = () => {
     return (
@@ -9,6 +10,7 @@ const Profile = () => {
             <div>
                 <img className={classes.secondary_img} src='https://www.gettyimages.com/gi-resources/images/500px/983703508.jpg'></img>
             </div>
+            <MyPosts/>
         </div>
     )
 }
