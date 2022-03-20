@@ -5,4 +5,13 @@
 .item {
     color: white;
     text-decoration: none;
+
+}
+.active {
+    color: white;
+    text-shadow: 2px 6px 2px #0a0202;
+    text-decoration: none;
+}
+.item_holder {
+    padding: 6px;
 }
