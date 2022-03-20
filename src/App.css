@@ -10,3 +10,8 @@
     grid-gap: 10fr;
     font-family: 'Mochiy Pop P One', sans-serif;
 }
+.profile {
+    grid-area: profile;
+    background: #36393f;
+    color: #ffffff;
+}
